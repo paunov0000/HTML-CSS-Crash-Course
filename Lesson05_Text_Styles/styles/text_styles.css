@@ -1,0 +1,84 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.tahoma-font {
+  font-family: Tahoma;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.biggest-deals {
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.sales-date {
+  font-family: Arial;
+  font-style: italic;
+  margin-top: 0px;
+  color: red;
+  margin-bottom: 60px;
+}
+
+.sample {
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Verdana;
+
+}
+
+.beginner-to-pro {
+  margin-top: 2px;
+  color: rgb(107, 107, 107);
+  font-size: 15px;
+  font-family: Verdana;
+}
+
+.course-info {
+  margin-top: 12px;
+  width: 260px;
+  font-size: 14px;
+  font-family: Verdana;
+}
+
+.get-started-button {
+  background-color: rgb(66, 116, 66);
+  color: white;
+  border: none;
+  font-size: 12px;
+  border-radius: 3px;
+  font-family: Verdana;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 15px;
+  cursor: pointer;
+  margin-bottom: 60px;
+}
+
+.ad-title {
+  font-family: Arial;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.ad-description {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 10px;
+}
+
+.learn-more {
+  font-family: Arial;
+  text-align: center;
+  font-size: 9px;
+  margin-top: 10px;
+  cursor: pointer;
+  color: rgb(0, 174, 255);
+}
