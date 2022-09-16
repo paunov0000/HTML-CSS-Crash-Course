@@ -1,0 +1,38 @@
+.email_text {
+  margin-top: 120px;
+  margin-left: 40px;
+  color: rgb(83, 83, 83);
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.email_fill {
+  border-radius: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 130px;
+  margin-left: 40px;
+  border-style: solid;
+  border-color: rgb(83, 83, 83);
+  margin-bottom: 0px;
+}
+
+.privacy {
+  margin-left: 40px;
+  color: rgb(83, 83, 83);
+  font-size: 13px;
+}
+
+.agreement_button {
+  margin-left: 40px;
+  font-size: 16px;
+  background-color: green;
+  border: none;
+  border-radius: 25px;
+  padding-left: 106px;
+  padding-right: 106px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  cursor: pointer;
+}

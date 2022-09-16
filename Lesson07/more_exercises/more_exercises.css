@@ -1,0 +1,23 @@
+input {
+  margin-bottom: 130px;
+}
+
+.rounded_searchbox {
+  border-radius: 4px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  border-style:solid ;
+  border-width: 1px;
+  width: 120px;
+}
+
+.ellipse_searchbox {
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 450px;
+  border-radius: 16px;
+  border: none;
+  box-shadow: 1px 1px 5px rgba(36, 34, 34, 0.2)
+}

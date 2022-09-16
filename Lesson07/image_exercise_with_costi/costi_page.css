@@ -1,0 +1,18 @@
+.round_costi_img {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.square_centered_costi_img {
+  width: 200px;
+  height: 500px;
+  margin-left: 100px;
+  object-fit: contain;
+  object-position: center;
+}
+
+.circle_costi_img {
+  border-radius:180%;
+  width: 200px;
+  margin-left: 100px;
+}
