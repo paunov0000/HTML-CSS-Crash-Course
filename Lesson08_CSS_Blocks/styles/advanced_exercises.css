@@ -1,0 +1,100 @@
+.first_name,
+.last_name {
+  padding-left: 13px;
+  width: 160px;
+  font-size: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: gray;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.email {
+  display: block;
+  padding-left: 13px;
+  font-size: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: gray;
+  padding-right: 132px;
+}
+
+.sign_up_button {
+  margin-top: 15px;
+  padding-top: 15px;
+  font-size: 20px;
+  padding-bottom: 15px;
+  padding-left: 146px;
+  padding-right: 146px;
+  border: none;
+  border-radius: 8px;
+  background-color: #337ab7;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.sign_up_button:hover {
+  background-color: #286090;
+  cursor: pointer;
+}
+
+.request_title {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.pickup_location,
+.destination_location {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-right: 150px;
+  border: none;
+  background-color: rgb(236, 236, 236);
+}
+
+
+  .request_button {
+    padding-top: 6px;
+    font-size: 13px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+    margin-right: 10px;
+    border: none;
+    color: rgb(236, 236, 236);
+    background-color: black;
+    transition: background-color 0.25s;
+  }
+
+  .schedule_button {
+    padding-top: 6px;
+    font-size: 13px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border: none;
+    transition: background-color 0.25s;
+  }
+
+
+  .request_button:hover {
+    color: black;
+    background-color: rgb(236, 236, 236);
+  }
+
+  .schedule_button:hover {
+    color: rgb(236, 236, 236);
+    background-color: black;
+  }
