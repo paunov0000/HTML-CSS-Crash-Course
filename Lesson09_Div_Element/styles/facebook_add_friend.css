@@ -1,0 +1,49 @@
+p {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.user_name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 3px;
+}
+
+.mutuals_count {
+  color: #B0B3B8;
+  margin-left: 5px;
+  margin-top: 2px;
+  font-size: 15px;
+}
+
+.add_friend_button {
+  background-color: #2374E1;
+  border: none;
+  color: white;
+  margin-left: 5px;
+  font-size: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.costi_pic {
+  width: 180px;
+  height: 180px;
+  margin-bottom: 0px;
+}
+
+.user_info {
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.6);
+  margin-top: 0px;
+  border: none;
+  display: inline-block;
+  padding-bottom: 15px;
+  margin-left: 12px;
+  margin-top: 100px;
+}
