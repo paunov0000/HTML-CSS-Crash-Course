@@ -1,0 +1,35 @@
+  p{
+    font-family: arial;
+    margin: 0;
+  }
+
+  .box {
+    width: 300px;
+    box-shadow: 0px 0px 1px rgba(65, 65, 65, 0.7);
+    height: 100px;
+    border-radius: 4px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .p-title
+   {
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+
+  .p-count {
+    margin-right: 12px;
+    margin-top: 5px;
+    background-color: #4267B2;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 20px;
+    color: white;
+  }
+
